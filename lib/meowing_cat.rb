@@ -1,5 +1,6 @@
 call Cat
 
-def meow
-  puts "meow!"
+   def meow
+    puts "meow!"
+end
 end
